@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
         maquina3.nombre = "Máquina Tres";
 
         //Ejecutamos el timer
-        //ejecutar();
+        ejecutar();
 
         ///Obtencion de informacion
         btnsave.setOnClickListener(new View.OnClickListener() {
