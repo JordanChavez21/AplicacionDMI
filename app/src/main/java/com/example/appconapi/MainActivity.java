@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
         //Ejecutamos el timer
         ejecutar();
 
-        ///Obtención de informacion
+        ///Obtención de información
         btnsave.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
